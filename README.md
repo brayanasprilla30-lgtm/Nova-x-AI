@@ -1,0 +1,1 @@
+# NOVA AI v3\n\nRender: Build Command `npm install`; Start Command `npm start`; Root Directory vacío.\n\nEn Environment agrega `GEMINI_API_KEY` con tu clave de Google AI Studio. No subas `.env` ni compartas la clave.\n\nVisita `/health` en el dominio publicado: debe mostrar `ok: true` y `apiKeyConfigured: true`.\n
